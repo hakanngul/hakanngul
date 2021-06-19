@@ -15,7 +15,6 @@
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <div style="display-flex">
-<a href="https://twitter.com/PurityWasHere"> <img align="left" width="43px" src="https://github.com/hhakangull/HakanGUL/blob/main/twitter.png" title="Telegram"/></a>
 
 <a href="http://hakangul.net/"> <img align="left" width="43px" src="https://github.com/hhakangull/HakanGUL/blob/main/internet.png" title="Telegram"/></a>
 <a href="mailto: hhakangull@gmail.com"> <img align="left" width="43px" src="https://github.com/hhakangull/HakanGUL/blob/main/email.png" title="Email"/> </a><br>
