@@ -1,7 +1,9 @@
 
 <h1>Hi there! </h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/hhakangull"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/hhakangull"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/hhakangull/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hhakangull&style=flat-square&color=blue" alt=""></p>
 <div align="center">
