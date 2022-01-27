@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/hhakangull"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a target="_blank" href="https://www.linkedin.com/in/hhakangul/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a target="_blank" href="https://www.instagram.com/hhakangull/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   
 </p>
