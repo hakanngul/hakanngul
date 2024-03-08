@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/hhakangul/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a target="_blank" href="https://www.instagram.com/hhakangull/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a target="_blank" href="https://www.linkedin.com/in/hakanngul/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a target="_blank" href="https://www.instagram.com/hakanngul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hhakangull&label=Profile%20views&color=0e75b6&style=flat" alt="hhakangull" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanngul&label=Profile%20views&color=0e75b6&style=flat" alt="hakanngul" /> </p>
 
 
 ### :man_technologist: &nbsp;About Me :
@@ -17,15 +17,15 @@ I am a Software Engineer from Turkey.
 - 🔭 I am currently working as Quality Assurance and I am doing interface tests with selenium to test web applications and I am actively training WebAPI with DotNetCore6.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-hhakangul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hhakangul)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-hakanngul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hakanngul)
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hhakangull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hhakangull" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hhakangul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hhakangul" height="30" width="40" /></a>
-<a href="https://instagram.com/hhakangull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hhakangull" height="30" width="40" /></a>
-<a href="https://medium.com/@hhakangull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hhakangull" height="30" width="40" /></a>
+<a href="https://dev.to/hakanngul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hakanngul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hakanngul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakanngul" height="30" width="40" /></a>
+<a href="https://instagram.com/hakanngul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakanngul" height="30" width="40" /></a>
+<a href="https://medium.com/@hakanngul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hakanngul" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -64,10 +64,10 @@ I am a Software Engineer from Turkey.
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hhakangull&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/>
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhakangull&theme=dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hakanngul&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/>
+![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanngul&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhakangull&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanngul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
