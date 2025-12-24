@@ -27,7 +27,7 @@ I am a **Software Engineer** from Turkey, passionate about Quality Assurance and
 * ⚙️ Specializing in **interface testing with Selenium & Playwright** and **API testing with .NET Core**.
 * 🌱 Exploring **Technical Content Writing**.
 * ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-* 📫 How to reach me: [**via LinkedIn**](https://www.linkedin.com/in/hakanngul/)
+* 📫 How to reach me: [**via LinkedIn**](https://www.linkedin.com/in/hhakangul/)
 
 ---
 
