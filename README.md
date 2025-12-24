@@ -21,11 +21,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** from Turkey, passionate about Quality Assurance and Test Automation.
+I am a **Software Engineer** from Turkey, passionate about Quality Assurance, Test Automation, and Software Development.
 
-* 🔭 I am currently working as **QA / Test Automation Engineer**.
-* ⚙️ Specializing in **interface testing with Selenium & Playwright** and **API testing with .NET Core**.
-* 🌱 Exploring **Technical Content Writing**.
+* 🔭 I am currently working as **Software Development In Test && Team Lead** at **Nesine.com**.
+* ⚙️ Specializing in **QA Automation with Java Spring, Playwright & Selenium**.
+* 📱 Developing mobile applications using **Flutter & SwiftUI** and building **freelance projects**.
+* 🌱 Exploring **Technical Content Writing** and backend architectures.
 * ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 * 📫 How to reach me: [**via LinkedIn**](https://www.linkedin.com/in/hhakangul/)
 
@@ -83,8 +84,3 @@ I am a **Software Engineer** from Turkey, passionate about Quality Assurance and
 
 ---
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/hakangul" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
-  </a>
-</div>
