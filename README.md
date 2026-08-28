@@ -22,7 +22,7 @@
 
 * 🏗️ **SDET & Quality Architecture:** Designing scalable, zero-flaky E2E, API and Mobile automation frameworks with Java Spring, Playwright & Selenium.
 * 📱 **Mobile Development (iOS & Cross-Platform):** Building native iOS applications with **SwiftUI / MVVM** and cross-platform apps with **Flutter & Dart**.
-* ⚡ **Developer Tooling & Infrastructure:** Developing custom test automation SDKs, Android emulator screen mirroring utilities, and load testing pilots (Locust).
+* ⚡ **Developer Tooling & Infrastructure:** Developing custom test automation frameworks (**TestFly**), Android emulator screen mirroring utilities, and load testing pilots (Locust).
 * 👥 **Leadership & Quality Culture:** Leading QA teams, establishing CI/CD quality gates, and driving Shift-Left engineering practices.
 
 ---
@@ -44,12 +44,12 @@
 
 | Project | Category | Description | Stack |
 | :--- | :--- | :--- | :--- |
-| **[✈️ testfly-playwright](https://github.com/hakanngul/testfly-playwright)** | SDET Framework | Modern, scalable Playwright test automation framework for web ecosystems. | `TypeScript` `Playwright` |
-| **[🧪 TestFlySdk](https://github.com/hakanngul/TestFlySdk)** | QA Tooling | Custom test automation SDK & utilities built in Java for scalable test execution. | `Java` `SDK` `Automation` |
-| **[🪞 Android-Emulator-Mirroring](https://github.com/hakanngul/Android-Emulator-Mirroring)** | Dev Tooling | Low-latency Android emulator screen mirroring and remote control utility. | `TypeScript` `DevTool` |
+| **[🧪 testfly](https://github.com/hakanngul/testfly)** | Enterprise QA Core | Enterprise-grade test automation ecosystem, accelerator & utilities built in Java. | `Java` `Enterprise QA` `Core Framework` |
+| **[✈️ testfly-playwright](https://github.com/hakanngul/testfly-playwright)** | SDET Web Framework | Modern, scalable Playwright test automation framework for web ecosystems. | `TypeScript` `Playwright` `E2E` |
 | **[🚗 CarPlay-Flutter](https://github.com/hakanngul/CarPlay-Flutter)** | Mobile Innovation | Apple CarPlay integration with Flutter applications for in-vehicle experiences. | `Flutter` `Dart` `CarPlay` |
+| **[🪞 Android-Emulator-Mirroring](https://github.com/hakanngul/Android-Emulator-Mirroring)** | Dev Tooling | Low-latency Android emulator screen mirroring and remote control utility. | `TypeScript` `DevTool` `ADB` |
 | **[🎬 Movie-Application-with-MVVM-SwiftUI](https://github.com/hakanngul/Movie-Application-with-MVVM-SwiftUI)** | iOS Engineering | Modern iOS movie catalog application built with SwiftUI and clean MVVM architecture. | `Swift` `SwiftUI` `MVVM` |
-| **[⚡ LocustPilot](https://github.com/hakanngul/LocustPilot)** | Performance QA | Python & Locust-based load and performance testing automation tool. | `Python` `Locust` `LoadTest` |
+| **[⚡ LocustPilot](https://github.com/hakanngul/LocustPilot)** | Performance QA | Python & Locust-based distributed load and performance testing automation tool. | `Python` `Locust` `LoadTest` |
 
 ---
 
