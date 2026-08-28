@@ -21,8 +21,8 @@
 ### 👨‍💻 Engineering Pillars & Domains
 
 * 🏗️ **SDET & Quality Architecture:** Designing scalable, zero-flaky E2E, API and Mobile automation frameworks with Java Spring, Playwright & Selenium.
-* 📱 **Mobile Development (iOS & Cross-Platform):** Building native iOS applications with **Swift / SwiftUI / Programmatic UIKit (MVVM)** and cross-platform apps with **Flutter & Dart**.
-* ⚡ **Developer Tooling & Infrastructure:** Developing custom test automation SDKs, Android emulator screen mirroring utilities, and load testing pilots.
+* 📱 **Mobile Development (iOS & Cross-Platform):** Building native iOS applications with **SwiftUI / MVVM** and cross-platform apps with **Flutter & Dart**.
+* ⚡ **Developer Tooling & Infrastructure:** Developing custom test automation SDKs, Android emulator screen mirroring utilities, and load testing pilots (Locust).
 * 👥 **Leadership & Quality Culture:** Leading QA teams, establishing CI/CD quality gates, and driving Shift-Left engineering practices.
 
 ---
@@ -31,7 +31,7 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **📱 Mobile Development** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **📱 Mobile Development** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **🌐 Web & E2E Test Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java Spring](https://img.shields.io/badge/Java_Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
 | **📱 Mobile QA & Device Control** | ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white) ![Android Mirroring](https://img.shields.io/badge/Android_Mirror-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | **⚡ Backend, API & Performance** | ![RestAssured](https://img.shields.io/badge/RestAssured-005C84?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C# .NET](https://img.shields.io/badge/C%23_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Locust](https://img.shields.io/badge/Locust-2EAD33?style=flat-square&logo=python&logoColor=white) |
@@ -45,10 +45,11 @@
 | Project | Category | Description | Stack |
 | :--- | :--- | :--- | :--- |
 | **[✈️ testfly-playwright](https://github.com/hakanngul/testfly-playwright)** | SDET Framework | Modern, scalable Playwright test automation framework for web ecosystems. | `TypeScript` `Playwright` |
-| **[📱 reminder-example-app](https://github.com/hakanngul/reminder-example-app)** | iOS Engineering | Programmatic UIKit iOS application built with MVVM, delegates, and local persistence. | `Swift` `UIKit` `MVVM` |
 | **[🧪 TestFlySdk](https://github.com/hakanngul/TestFlySdk)** | QA Tooling | Custom test automation SDK & utilities built in Java for scalable test execution. | `Java` `SDK` `Automation` |
-| **[🚗 CarPlay-Flutter](https://github.com/hakanngul/CarPlay-Flutter)** | Mobile Innovation | Apple CarPlay integration with Flutter applications for in-vehicle experiences. | `Flutter` `Dart` `CarPlay` |
 | **[🪞 Android-Emulator-Mirroring](https://github.com/hakanngul/Android-Emulator-Mirroring)** | Dev Tooling | Low-latency Android emulator screen mirroring and remote control utility. | `TypeScript` `DevTool` |
+| **[🚗 CarPlay-Flutter](https://github.com/hakanngul/CarPlay-Flutter)** | Mobile Innovation | Apple CarPlay integration with Flutter applications for in-vehicle experiences. | `Flutter` `Dart` `CarPlay` |
+| **[🎬 Movie-Application-with-MVVM-SwiftUI](https://github.com/hakanngul/Movie-Application-with-MVVM-SwiftUI)** | iOS Engineering | Modern iOS movie catalog application built with SwiftUI and clean MVVM architecture. | `Swift` `SwiftUI` `MVVM` |
+| **[⚡ LocustPilot](https://github.com/hakanngul/LocustPilot)** | Performance QA | Python & Locust-based load and performance testing automation tool. | `Python` `Locust` `LoadTest` |
 
 ---
 
