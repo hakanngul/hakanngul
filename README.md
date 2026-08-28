@@ -1,86 +1,65 @@
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Hi, I'm Hakan!</h1>
-  <p>
-    <a href="https://www.linkedin.com/in/hhakangul/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://dev.to/hakanngul" target="_blank">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-    </a>
-    <a href="https://medium.com/@hakanngul" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-    </a>
-  </p>
+<p align="center">
+  <a href="https://linkedin.com/in/hhakangul">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Hakan+G%C3%9CL+%F0%9F%91%8B;SDET+Team+Lead+%40+Nesine.com;Quality+Architect+%26+Automation+Engineer;Mobile+Developer+(SwiftUI+%7C+Flutter)" alt="Typing SVG" />
+  </a>
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=hakanngul&label=Profile%20Views&color=0e75b6&style=flat-square" alt="hakanngul" />
+<p align="center">
+  <strong>Quality Engineering Leader & Mobile Software Engineer</strong><br/>
+  <em>Bridging the gap between robust test automation architectures and native/cross-platform mobile development.</em>
+</p>
 
-  <br/><br/>
-</div>
-
-### 👨‍💻 About Me
-
-I am a **Software Engineer** from Turkey, passionate about Quality Assurance, Test Automation, and Software Development.
-
-* 🔭 I am currently working as **Software Development In Test && Team Lead** at **Nesine.com**.
-* ⚙️ Specializing in **QA Automation with Java Spring, Playwright & Selenium**.
-* 📱 Developing mobile applications using **Flutter & SwiftUI** and building **freelance projects**.
-* 🌱 Exploring **Technical Content Writing** and backend architectures.
-* ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-* 📫 How to reach me: [**via LinkedIn**](https://www.linkedin.com/in/hhakangul/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hhakangul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://medium.com/@hakanngul"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+  <a href="https://dev.to/hakanngul"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=hakanngul&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Views" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 👨‍💻 Engineering Pillars & Domains
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
+* 🏗️ **SDET & Quality Architecture:** Designing scalable, zero-flaky E2E, API and Mobile automation frameworks with Java Spring, Playwright & Selenium.
+* 📱 **Mobile Development (iOS & Cross-Platform):** Building native iOS applications with **Swift / SwiftUI / Programmatic UIKit (MVVM)** and cross-platform apps with **Flutter & Dart**.
+* ⚡ **Developer Tooling & Infrastructure:** Developing custom test automation SDKs, Android emulator screen mirroring utilities, and load testing pilots.
+* 👥 **Leadership & Quality Culture:** Leading QA teams, establishing CI/CD quality gates, and driving Shift-Left engineering practices.
 
 ---
 
-### 🔥 My Stats
+### 🛠️ Tech Stack & Engineering Matrix
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hakanngul&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Streak" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=hakanngul&theme=radical&show_icons=true" alt="Stats" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanngul&layout=compact&theme=radical" alt="Languages" />
-</div>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **📱 Mobile Development** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **🌐 Web & E2E Test Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java Spring](https://img.shields.io/badge/Java_Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **📱 Mobile QA & Device Control** | ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white) ![Android Mirroring](https://img.shields.io/badge/Android_Mirror-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **⚡ Backend, API & Performance** | ![RestAssured](https://img.shields.io/badge/RestAssured-005C84?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C# .NET](https://img.shields.io/badge/C%23_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Locust](https://img.shields.io/badge/Locust-2EAD33?style=flat-square&logo=python&logoColor=white) |
+| **🚀 CI/CD & Quality Gates** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) |
+| **📊 Test Management & Observability** | ![Allure](https://img.shields.io/badge/Allure_Report-FFA000?style=flat-square&logo=allure&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-00BFFF?style=flat-square&logo=testrail&logoColor=white) ![ReportPortal](https://img.shields.io/badge/ReportPortal-5849BE?style=flat-square&logo=databricks&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 ---
 
+### 🚀 Featured Repositories & Engineering Projects
+
+| Project | Category | Description | Stack |
+| :--- | :--- | :--- | :--- |
+| **[✈️ testfly-playwright](https://github.com/hakanngul/testfly-playwright)** | SDET Framework | Modern, scalable Playwright test automation framework for web ecosystems. | `TypeScript` `Playwright` |
+| **[📱 reminder-example-app](https://github.com/hakanngul/reminder-example-app)** | iOS Engineering | Programmatic UIKit iOS application built with MVVM, delegates, and local persistence. | `Swift` `UIKit` `MVVM` |
+| **[🧪 TestFlySdk](https://github.com/hakanngul/TestFlySdk)** | QA Tooling | Custom test automation SDK & utilities built in Java for scalable test execution. | `Java` `SDK` `Automation` |
+| **[🚗 CarPlay-Flutter](https://github.com/hakanngul/CarPlay-Flutter)** | Mobile Innovation | Apple CarPlay integration with Flutter applications for in-vehicle experiences. | `Flutter` `Dart` `CarPlay` |
+| **[🪞 Android-Emulator-Mirroring](https://github.com/hakanngul/Android-Emulator-Mirroring)** | Dev Tooling | Low-latency Android emulator screen mirroring and remote control utility. | `TypeScript` `DevTool` |
+
+---
+
+### 📈 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakanngul&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hakanngul&theme=tokyonight" alt="Commit Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hakanngul&theme=tokyonight" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hakanngul&theme=tokyonight" alt="Productive Time" width="49%" />
+</p>
