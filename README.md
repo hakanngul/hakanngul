@@ -13,7 +13,7 @@
   <a href="https://hakangul.lovable.app"><img src="https://img.shields.io/badge/Portfolio-hakangul.lovable.app-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://hakangul.lovable.app/blog"><img src="https://img.shields.io/badge/Blog-8_Part_Series-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/hhakangul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://medium.com/@hakanngul"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+  <a href="https://medium.com/@hakangul"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=hakanngul&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Views" />
 </p>
 
