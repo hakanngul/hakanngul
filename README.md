@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://hakangul.lovable.app"><img src="https://img.shields.io/badge/Portfolio-hakangul.lovable.app-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://hakangul.lovable.app/blog"><img src="https://img.shields.io/badge/Blog-8_Part_Series-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>&nbsp;
+  <a href="https://hakangul.lovable.app/blog"><img src="https://img.shields.io/badge/Blog-13_Articles-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>&nbsp;
+  <a href="https://medium.com/@hakangul"><img src="https://img.shields.io/badge/Medium-Stories-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/hhakangul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://medium.com/@hakangul"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=hakanngul&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Views" />
 </p>
 
@@ -23,13 +23,23 @@
 
 * 🏗️ **SDET & Quality Architecture:** Architecting resilient, zero-flaky E2E, API and Mobile automation frameworks with Java, Playwright & Selenium.
 * 📱 **Mobile Development (iOS & Cross-Platform):** Building native iOS applications with **SwiftUI / MVVM** and cross-platform apps with **Flutter & Dart**.
-* ⚡ **Developer Tooling & Frameworks:** Creator of **[TestFly](https://github.com/hakanngul/testfly)** (Zero-boilerplate Java automation SDK), Android emulator mirroring tools, and distributed load testing pilots.
+* ⚡ **Developer Tooling & Frameworks:** Creator of **[TestFly](https://github.com/hakanngul/testfly)** (Zero-boilerplate Java automation SDK), **[LocustPilot](https://github.com/hakanngul/LocustPilot)** (Distributed load testing control plane), and Android emulator mirroring tools.
 * 👥 **Engineering Leadership:** Mentoring SDET teams, defining CI/CD quality gates, and championing Shift-Left quality culture across distributed squads.
 
 ---
 
-### 📚 Featured Article Series: TestFly Masterclass
+### 📚 Featured Article Series & Publications
 
+#### 🦗 LocustPilot Masterclass (Distributed Load Testing)
+| Part | Title | Focus Area | Link |
+| :---: | :--- | :--- | :---: |
+| **01** | **The Death of XML (Locust vs JMeter)** | Python Test-as-Code & Control Center | [Read Article](https://hakangul.lovable.app/blog/locustpilot-part-1-the-death-of-xml-modern-load-testing-control-plane) |
+| **02** | **Dynamic AST Test Runner Engine** | Python AST Scanner & Subprocess I/O | [Read Article](https://hakangul.lovable.app/blog/locustpilot-part-2-dynamic-ast-test-runner-and-subprocess-engine) |
+| **03** | **Enterprise Observability & ReportPortal** | Gevent Streaming & P99 Percentiles | [Read Article](https://hakangul.lovable.app/blog/locustpilot-part-3-enterprise-observability-reportportal-gevent) |
+| **04** | **Scaling to 100,000 RPS on Kubernetes** | Distributed Master-Worker & Helm | [Read Article](https://hakangul.lovable.app/blog/locustpilot-part-4-scaling-100000-rps-kubernetes-helm-docker) |
+| **05** | **Shift-Left Performance CI/CD** | GitHub Actions & Bitbucket Gates | [Read Article](https://hakangul.lovable.app/blog/locustpilot-part-5-shift-left-performance-ci-cd-quality-gates) |
+
+#### 🧪 TestFly Masterclass (Java Test Automation SDK)
 | Part | Title | Focus Area | Link |
 | :---: | :--- | :--- | :---: |
 | **01** | **The Spring Boot of Selenium** | Zero-Boilerplate Setup & BaseTest | [Read Article](https://hakangul.lovable.app/blog/introducing-testfly-modern-java-test-automation-framework) |
@@ -60,12 +70,12 @@
 
 | Project | Category | Description | Stack |
 | :--- | :--- | :--- | :--- |
+| **[⚡ LocustPilot](https://github.com/hakanngul/LocustPilot)** | Performance QA | Python & Locust-based distributed load and performance testing automation tool. | `Python` `Locust` `Streamlit` `Docker` `Helm` |
 | **[🧪 testfly](https://github.com/hakanngul/testfly)** | Enterprise QA Core | Opinionated, zero-boilerplate Java test automation SDK built on Selenium WebDriver. | `Java 17` `Selenium` `TestNG` `Enterprise QA` |
 | **[✈️ testfly-playwright](https://github.com/hakanngul/testfly-playwright)** | SDET Web Framework | Modern, scalable Playwright test automation framework for web ecosystems. | `TypeScript` `Playwright` `E2E` |
 | **[🚗 CarPlay-Flutter](https://github.com/hakanngul/CarPlay-Flutter)** | Mobile Innovation | Apple CarPlay integration with Flutter applications for in-vehicle experiences. | `Flutter` `Dart` `CarPlay` |
 | **[🪞 Android-Emulator-Mirroring](https://github.com/hakanngul/Android-Emulator-Mirroring)** | Dev Tooling | Low-latency Android emulator screen mirroring and remote control utility. | `TypeScript` `DevTool` `ADB` |
 | **[🎬 Movie-Application-with-MVVM-SwiftUI](https://github.com/hakanngul/Movie-Application-with-MVVM-SwiftUI)** | iOS Engineering | Modern iOS movie catalog application built with SwiftUI and clean MVVM architecture. | `Swift` `SwiftUI` `MVVM` |
-| **[⚡ LocustPilot](https://github.com/hakanngul/LocustPilot)** | Performance QA | Python & Locust-based distributed load and performance testing automation tool. | `Python` `Locust` `LoadTest` |
 
 ---
 
